@@ -1,4 +1,4 @@
-# Challenge Alura - Amigo Secreto
+# Challenge ONE Alura latam - Amigo Secreto - 2025
 
 ![image](https://github.com/user-attachments/assets/7993bdd0-fd1e-4bd4-8de6-7d768cbf45c4)
 
@@ -30,7 +30,7 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+    https://github.com/pedrogalvis/best-friend/deployments/github-pages
     ```
 
 2. Navega al directorio del proyecto:
